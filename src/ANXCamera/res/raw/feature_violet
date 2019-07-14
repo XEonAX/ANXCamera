@@ -6,9 +6,7 @@
     "s_f_a": true,
     "s_o_a_w": true,
     "s_s_n": true,
-    "c_0x07":true,
     "c_0x0c": true,
-    "h_d_v": off,
     "c_0x0d": 48000000,
     "c_0x01_p_g_a_v": 284,
     "c_0x11": true,
@@ -18,6 +16,11 @@
     "a_l_l_l": 370,
     "a_l_h_l": 360,
     "e_p_p_l_t": true,
+    "c_e_f_a_l": true,
+    "s_f_s": true,
+    "c_0x07":true,
+    "c_0x31": true,
     "c_0x37": true,
+    "c_0x1c":true,
     "c_0x00_s_l_s": true
 }

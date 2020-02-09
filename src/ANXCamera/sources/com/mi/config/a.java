@@ -315,7 +315,8 @@ public class a extends DataItemBase implements c {
     }
 
     public boolean Sa() {
-        return getBoolean(c.At, false);
+        // Android one check
+        return true;
     }
 
     public boolean Sb() {

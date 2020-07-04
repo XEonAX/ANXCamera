@@ -91,3 +91,9 @@ tree  --noreport -n -X -i -s -D -f -A -P ANX*zip
     sget-object v9, Lcom/android/camera/module/Camera2Module;->TAG:Ljava/lang/String;
     const-string v10, "ANXZANGOL0"
     invoke-static {v9, v10}, Lcom/android/camera/log/Log;->d(Ljava/lang/String;Ljava/lang/String;)I
+
+
+var i;
+for (i = 0; i < 6; i++) {
+console.log((parseInt("0x7f0804c8", 16) + i).toString(16));
+}

@@ -72,8 +72,8 @@ print_modname() {
   ui_print "************************************"
   ui_print "              ANXCamera             "
   ui_print "        For Xiaomi's Devices        "
-  ui_print "     Created by AEonAX, Luffity     "
-  ui_print "     CodeElixir and Abhishek987     "
+  ui_print "      Created by AEonAX, Noid       "
+  ui_print "Luffity, Wolf, P, Amogha, Abhishek787"
   ui_print "************************************"
   ui_print " "
   unity_main # Don't change this line

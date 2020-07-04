@@ -6,18 +6,34 @@ src/ANXCameraUnity/system/priv-app/ANXCamera/ANXCamera.apk
 src/ANXMiuiCameraMagisk/system/priv-app/MiuiCamera/MiuiCamera.apk
 LiveShare.txt
 src/ANXCameraX/
+src/ANXExtraPhotoX/
 
 src/ANXCameraMagisk/system/priv-app/ANXCamera/lib/arm64/*.so
 src/ANXCameraUnity/system/priv-app/ANXCamera/lib/arm64/*.so
+src/ANXCameraUnity/system/priv-app/ANXCamera/lib/arm/*.so
 
+src/ANXCameraUnity/system/priv-app/ANXExtraPhoto/lib/arm64/*.so
 src/Arnob48MPFix/
 src/Dyneteve48MPFix/
 src/KubilWhyredyFix/
 src/ANXCamFix/
+src/ANXVendorLibs/
 src/ANXMimoji/
 src/LavendyFix/
 src/ANXCameraLibs/
+src/ANXFire/
+src/ANXVV/
+src/ANXMiui/
 
 src/ANXCamera/assets/mimoji/data.zip
 src/ANXCamera/assets/mimoji/model.zip
 /src/ANXCameraUnity/system/etc/ANXCamera/fonts/
+
+50EUR/
+orig/
+src/ANXCameraUnity/system/etc/ANXCamera/mimoji/model.zip
+src/ANXCameraUnity/system/etc/ANXCamera/mimoji/data.zip
+src/SmaliSandBox
+
+src/ANXCameraUnity/system/priv-app/ANXExtraPhoto/ANXExtraPhoto.apk
+src/ANXExtraPhoto/build/*

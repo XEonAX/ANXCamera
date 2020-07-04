@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <privapp-permissions package="com.miui.extraphoto">
+        <!-- Storage -->
+        <permission name="android.permission.READ_EXTERNAL_STORAGE" />
+        <permission name="android.permission.WRITE_EXTERNAL_STORAGE" />
+        <permission name="android.permission.ACCESS_MEDIA_LOCATION" />
+        <permission name="android.permission.WRITE_MEDIA_STORAGE" />
+        <!-- Omni -->
+        <permission name="android.permission.VIBRATE"/>
+    </privapp-permissions>
+</permissions>

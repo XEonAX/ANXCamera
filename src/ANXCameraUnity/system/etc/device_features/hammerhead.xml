@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<features>
+    <!--whether the device is pad-->
+    <bool name="is_pad">false</bool>
+    <!--whether the device is xiaomi-->
+    <bool name="is_xiaomi">false</bool>
+    <!--whether the device is hongmi-->
+    <bool name="is_hongmi">false</bool>
+    <!--whether the device supports oldman mode-->
+    <bool name="support_oldman_mode">true</bool>
+    <!--whether the device support alpha optimized-->
+    <bool name="support_alpha_optimized">true</bool>
+    <!--whether the device supports torch-->
+    <bool name="support_torch">true</bool>
+    <!--whether the device supports emulated storage-->
+    <bool name="support_emulated_storage">true</bool>
+    <!--whether the device supports erase external storage-->
+    <bool name="support_erase_external_storage">true</bool>
+    <!--whether the device supports headset-->
+    <bool name="support_headset">false</bool>
+    <!--whether the device supports IR-->
+    <bool name="support_ir">false</bool>
+    <!-- whether the device supports app hiding-->
+    <bool name="support_app_hiding">false</bool>
+    <!--whether the device can read cpu4 freq-->
+    <bool name="is_read_cpu4_freq">false</bool>
+    <!--whether the device supports cit-->
+    <bool name="support_cit">true</bool>
+    <!--whether the device is emulated sdcard-->
+    <bool name="is_emulated_sdcard">true</bool>
+    <!--the vendor feature, it's value may be qcom,mediatek,leadcore or nvidia-->
+    <string name="vendor">google</string>
+    <!--b0:flash b1:hdr b2:motion b3:night-->
+    <integer name="camera_supported_asd">0</integer>
+    <!--whether the device supports bt debug trace-->
+    <bool name="btdebug_enabled">true</bool>
+    <!-- whether CN hardware can flash Global rom -->
+    <bool name="enable_flash_global">true</bool>
+</features>

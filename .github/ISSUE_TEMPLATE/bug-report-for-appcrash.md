@@ -23,6 +23,12 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
+**ANXCamera (please complete the following information):**
+ - Version [e.g 190] 
+ - Pre-Built into Rom or Installed Manually [e.g Installed via Magisk]
+ - Addons [e.g ANXFramework 190, 48MPFix 180]
+   - Versions
+   
 **Phone (please complete the following information):**
  - Device: [e.g. Poco, Mi8]
  - CodeName: [e.g. beryllium, dipper]
